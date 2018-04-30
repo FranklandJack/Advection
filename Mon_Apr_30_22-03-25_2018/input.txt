@@ -1,0 +1,10 @@
+Input-Parameters...
+Spatial-discretistation:      0.05
+Temperol-discretistation:     0.05
+v:                            0.5
+Initial-value:                0
+Initial-noise:                0.1
+Total-steps:                  200
+Domain:                       200
+Output-directory:             Mon_Apr_30_22-03-25_2018
+
